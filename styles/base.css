@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(green,rgb(83, 129, 83));
+}
+
+header{
+    
+    text-align: center;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+h1{
+    color:black;
+    text-align: center;
+    font-family: 'Comic Sans MS', 'Comic Sans', 'cursive';
+}
+
+h3{
+    color:black;
+    font-family: 'Comic Sans MS', 'Comic Sans', 'cursive'; 
+}
+
+.Post{
+    
+    height: 500px;
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+}
+
+.txt-post{
+    text-align: center;
+    margin-top: 10%;
+}
+
+footer{
+    margin-left:35%;
+    width: 30%;
+    background-image: linear-gradient(rgb(83, 129, 83),green);
+    text-align: center;
+    border-radius: 10px;
+}
